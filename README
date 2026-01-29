@@ -1,2 +1,5 @@
 Hi everybody! This is the EVOLVOID repository. 
-In the first release you can download the zip file and run the main on MATLAB with the Global Optimization Toolbox. 
+EVOLVOID is a a computational pipeline based on genetic algorithms that generates virtual 3D cell constructs with optimized morphologies 
+by simulating key biophysical principles — such as thermodynamic principles, nutrient transport and their uptake by cells.
+
+In the first release (v1.0.0) you can download the zip file and run the main on MATLAB with the Global Optimization Toolbox. 
